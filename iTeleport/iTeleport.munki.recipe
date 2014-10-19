@@ -20,6 +20,10 @@
             </array>
             <key>description</key>
             <string>It's magic</string>
+            <key>Developer</key>
+            <string>iTeleport, Inc.</string>
+            <key>Category</key>
+            <string>Business</string>
             <key>display_name</key>
             <string>iTeleport</string>
             <key>name</key>
